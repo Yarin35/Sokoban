@@ -17,4 +17,5 @@ Control:
 - Key down = to go down
 - Key right = to go right
 
-Links to a canva of presentation if you want (no text but it can helps understanding). 
+Links to a canva of presentation if you want (no text but it can helps understanding):
+ -> https://www.canva.com/design/DAFZfoy_cjI/lKn2CKHMg80_siDDIQe4SA/view?utm_content=DAFZfoy_cjI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton <-
